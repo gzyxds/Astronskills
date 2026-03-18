@@ -1,6 +1,6 @@
 {
   "specVersion": 2,
-  "generatedAt": "2026-03-10T20:14:34.496Z",
+  "generatedAt": "2026-03-18T20:18:17.233Z",
   "skills": [
     {
       "specVersion": 2,
@@ -2170,7 +2170,7 @@
         "repo": "https://github.com/openai/skills",
         "path": "skills/.curated/openai-docs",
         "ref": "main",
-        "syncedCommit": "fe06517f6e7b83249220c0c1fe71a2ce74f95ea7"
+        "syncedCommit": "dc48aff8208131776c9937326002bd60cf572ab6"
       },
       "repoPath": "skills/documentation/openai-docs",
       "summary": "Provide authoritative, current guidance from OpenAI developer docs using the developers.openai.com MCP server. Always prioritize the developer docs MCP tools over web.run for OpenAI-related questions. This skill may also load targeted files from `references/` for model-selection and GPT-5.4-specific requests, but current OpenAI docs remain authoritative. Only if the MCP server is installed and returns no meaningful results should you fall back to web search.",
