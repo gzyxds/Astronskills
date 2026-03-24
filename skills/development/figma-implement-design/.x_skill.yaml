@@ -11,4 +11,4 @@ source:
   repo: https://github.com/openai/skills
   path: skills/.curated/figma-implement-design
   ref: main
-  syncedCommit: f46b2535abfc2ec4b383ba0da47a0357abfa198c
+  syncedCommit: 14f4eb1410aca89371166bc7e7a567435f3ace05
