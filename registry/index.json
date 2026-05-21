@@ -1,6 +1,6 @@
 {
   "specVersion": 2,
-  "generatedAt": "2026-05-20T21:44:07.952Z",
+  "generatedAt": "2026-05-21T21:22:21.334Z",
   "skills": [
     {
       "specVersion": 2,
@@ -2440,7 +2440,7 @@
         "repo": "https://github.com/openai/skills",
         "path": "skills/.curated/playwright",
         "ref": "main",
-        "syncedCommit": "a5119697b819090e00e5d11ee1d86834d7c1043a"
+        "syncedCommit": "b0401f07213a66414d84a65cb50c1d226f99485a"
       },
       "repoPath": "skills/tools/playwright",
       "summary": "Drive a real browser from the terminal using `playwright-cli`. Prefer the bundled wrapper script so the CLI works even when it is not globally installed.\nTreat this skill as CLI-first automation. Do not pivot to `@playwright/test` unless the user explicitly asks for test files.",
