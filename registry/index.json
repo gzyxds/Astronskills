@@ -1,6 +1,6 @@
 {
   "specVersion": 2,
-  "generatedAt": "2026-11-14T00:33:41.119Z",
+  "generatedAt": "2026-11-14T23:31:37.131Z",
   "skills": [
     {
       "specVersion": 2,
@@ -2717,7 +2717,7 @@
         "repo": "https://github.com/anthropics/skills",
         "path": "skills/pptx",
         "ref": "main",
-        "syncedCommit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579"
+        "syncedCommit": "1780c5e5a552fd4d1c9d6a7b0cab26b0c2bef064"
       },
       "repoPath": "skills/tools/pptx",
       "summary": "A `.pptx` is a ZIP archive of XML files. Choose your approach by task:",
@@ -2732,6 +2732,10 @@
         },
         {
           "path": "scripts/add_slide.py",
+          "kind": "file"
+        },
+        {
+          "path": "scripts/apply_theme.js",
           "kind": "file"
         },
         {
@@ -2936,6 +2940,10 @@
         },
         {
           "path": "scripts/office/validators/redlining.py",
+          "kind": "file"
+        },
+        {
+          "path": "scripts/slide_text.py",
           "kind": "file"
         },
         {
