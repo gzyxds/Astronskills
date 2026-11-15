@@ -1,6 +1,6 @@
 {
   "specVersion": 2,
-  "generatedAt": "2026-11-14T23:31:37.131Z",
+  "generatedAt": "2026-11-15T23:39:42.923Z",
   "skills": [
     {
       "specVersion": 2,
@@ -265,7 +265,7 @@
         "repo": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "path": ".claude/skills/ui-ux-pro-max",
         "ref": "main",
-        "syncedCommit": "4f2dbb67e64969a9a30ab00742f2d55d66ddec2b"
+        "syncedCommit": "b6a79003ad2b93c174590a4143a0ddbb2e4574e2"
       },
       "repoPath": "skills/development/ui-ux-pro-max",
       "summary": "Searchable local UI/UX guidance: 80 searchable styles (51 active), 192 product palettes and exact reasoning profiles, 74 font pairings, 120 UX guidelines, 105 curated icons, 17 GSAP presets, 25 chart types, and 22 technology stacks.",
@@ -443,6 +443,10 @@
           "kind": "file"
         },
         {
+          "path": "scripts/preview.py",
+          "kind": "file"
+        },
+        {
           "path": "scripts/reasoning_contract.py",
           "kind": "file"
         },
@@ -527,7 +531,15 @@
           "kind": "file"
         },
         {
+          "path": "scripts/tests/test_design_system_preview.py",
+          "kind": "file"
+        },
+        {
           "path": "scripts/tests/test_design_system_stack.py",
+          "kind": "file"
+        },
+        {
+          "path": "scripts/tests/test_design_system_tokens.py",
           "kind": "file"
         },
         {
