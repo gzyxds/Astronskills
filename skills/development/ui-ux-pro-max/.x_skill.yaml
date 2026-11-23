@@ -18,4 +18,4 @@ source:
   repo: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
   path: .claude/skills/ui-ux-pro-max
   ref: main
-  syncedCommit: f76d1653d7467fc11fb9d9d79295a421c92ab958
+  syncedCommit: 6ec2bb58334ca3014573c4cbd4834ee3a40afd9d
